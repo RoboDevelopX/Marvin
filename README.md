@@ -21,11 +21,6 @@ assess user responses.
 
 ## Getting Started
 
-Download or clone the project from github:
-```
-$ git clone https://github.com/nityansuman/marvin.git
-```
-
 Create a project environment (Anaconda recommended):
 ```
 $ conda create --name envname python
@@ -52,10 +47,3 @@ $ python runserver.py
 
 **Result Board**
 ![Result Board](https://raw.githubusercontent.com/nityansuman/marvin/master/src/static/images/pic5.png)
-
-## Support
-
-If you like the work I do, show your appreciation by 'FORK', 'STAR' and 'SHARE'.
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
